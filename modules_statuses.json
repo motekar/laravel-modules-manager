@@ -1,0 +1,8 @@
+{
+    "HelloWorld": true,
+    "Blog": true,
+    "Core": true,
+    "Common": true,
+    "Shop": false,
+    "Customer": false
+}
